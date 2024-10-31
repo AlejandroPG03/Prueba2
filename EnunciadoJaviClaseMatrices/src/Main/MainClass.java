@@ -16,6 +16,7 @@ public class MainClass {
 			for(int j = 0 ; j < array.length ; j ++) {
 				array[i][j] = (int) (Math.random() * 90 + 10);
 				//Carlos estuvo aqui.
+				// Dani estuvo aqui
 			}
 		}
 	}
